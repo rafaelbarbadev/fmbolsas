@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1555258637337,
+  "timestamp": 1555261538326,
   "index": "/fmbolsas/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "/fmbolsas/es2015-polyfills.c5dd28b362270c767b34.js",
         "/fmbolsas/favicon.ico",
         "/fmbolsas/index.html",
-        "/fmbolsas/main.bd7c1419bfb61fef7275.js",
+        "/fmbolsas/main.1310c319e2fddbaf51eb.js",
         "/fmbolsas/polyfills.8bbb231b43165d65d357.js",
         "/fmbolsas/runtime.26209474bfa8dc87a77c.js",
         "/fmbolsas/styles.e944dff6cc3d4b86f706.css"
@@ -47,8 +47,8 @@
     "/fmbolsas/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/fmbolsas/es2015-polyfills.c5dd28b362270c767b34.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
     "/fmbolsas/favicon.ico": "8fee5e971ce57c0bee4f0da8ad6d34ab89174596",
-    "/fmbolsas/index.html": "188d2f5af096575d1b9793a297d9e5e0fa59e4ea",
-    "/fmbolsas/main.bd7c1419bfb61fef7275.js": "8feaffefda0e5e8152113288f918d1228b78785c",
+    "/fmbolsas/index.html": "14f7218b7663e439897d1f492ec57a32a5267b72",
+    "/fmbolsas/main.1310c319e2fddbaf51eb.js": "3a9b915f5523a11983d6c16dd6f8d0f25dc2d931",
     "/fmbolsas/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/fmbolsas/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/fmbolsas/styles.e944dff6cc3d4b86f706.css": "73b0c6b29410d17f58e4b4d9ee53327ee359c21d"
