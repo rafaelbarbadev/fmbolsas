@@ -1,11 +1,13 @@
 {
   "name": "fmbolsas",
   "short_name": "fmbolsas",
+  "description": "fmbolsas Sample PWA APP",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
+  "orientation": "any",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
