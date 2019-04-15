@@ -7,7 +7,7 @@
     "build": "ng build",
     "build-gh": "ng build --prod --base-href 'https://rafaelolivr.github.io/fmbolsas/'",
     "build-prod": "ng build --prod --base-href '/fmbolsas/'",
-    "deploy-gh": "ngh --dir /dist",
+    "deploy-gh": "ngh --dir /dist/fmbolsas",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
